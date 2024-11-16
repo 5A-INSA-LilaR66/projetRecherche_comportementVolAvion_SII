@@ -2,11 +2,15 @@
 
 Project in collaboration with the SII Group (https://sii-group.com/fr-FR)
 
-Supervisors : 
+**Supervisors** : 
 - Florian Montels
 - Coline Moinet
 
-Description of the code files: 
+## Introduction
+
+This project aims to develop an algorithm capable of detecting system failures in a flight simulator and classifying the scenarios being played. Using multivariate time series data, the project explores methods adapted to handle the complex temporal structures and internal correlations of the data. The algorithms are first trained on artificial data before being applied to real-world data to analyze flights and identify failures. The ultimate goal is to enhance aviation safety by enabling the rapid and accurate detection of failures, thereby reducing the risk of accidents.
+
+## Description of the code files: 
 
 **In the folder code/utilities:** 
   1) Data loading: 
