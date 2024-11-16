@@ -1,6 +1,6 @@
 # SII_comportement_vol_ST
 
-Project in collaboration with the SII Group
+Project in collaboration with the SII Group ![Alt text](https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/SII_logo.jpg/640px-SII_logo.jpg)
 
 Supervisors : 
 - Florian Montels
