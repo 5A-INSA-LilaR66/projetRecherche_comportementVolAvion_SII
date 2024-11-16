@@ -1,7 +1,10 @@
 # SII_comportement_vol_ST
 
-nouveau lien meeting:
-https://voip.siinergy.net/meet/florianmontels
+Project in collaboration with the SII Group
+
+Supervisors : 
+- Florian Montels
+- Coline Moinet
 
 Description of the code files: 
 
