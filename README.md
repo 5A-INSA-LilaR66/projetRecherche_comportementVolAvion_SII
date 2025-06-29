@@ -1,4 +1,6 @@
-# SII_comportement_vol_ST
+# Project: Predicted and classified aircraft failure events from simulated flight time series
+
+*September - December 2022*
 
 Project in collaboration with the SII Group (https://sii-group.com/fr-FR)
 
