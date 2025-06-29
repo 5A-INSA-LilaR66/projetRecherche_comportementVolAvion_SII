@@ -2,6 +2,8 @@
 
 *September - December 2022*
 
+INSA Toulouse – Spécialité Mathématiques Appliquées, 5ᵉ année
+
 Project in collaboration with the SII Group (https://sii-group.com/fr-FR)
 
 **Supervisors** : 
